@@ -20,16 +20,7 @@ android:layout_width="match_parent"
             android:layout_centerHorizontal="true">
 
         </Button>
-        <Button
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:background="@drawable/twitter"
-            android:id="@+id/button2"
-            android:layout_below="@+id/buttonshare"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="28dp">
 
-        </Button>
 
         <Button
             android:id="@+id/button3"
